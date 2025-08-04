@@ -1,2 +1,2 @@
 # Data-Science-ML-projects
-Collection of small data Science/ML projects for the sake of practice. 
+Collection of smaller data Science/ML projects. 
